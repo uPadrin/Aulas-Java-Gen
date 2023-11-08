@@ -23,7 +23,7 @@ public class Exer04 {
 		n4 = leia.nextFloat();
 
 		
-		System.out.println("O valor é do Média final " + (n1*n2 - (n3*n4)));
+		System.out.println("O valor é do diferença " + ((n1 * n2) - (n3 * n4)));
 	}
 
 }
