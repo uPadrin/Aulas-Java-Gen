@@ -14,7 +14,7 @@ public class Exer01 {
 		System.out.println("Insira o Abono: ");
 		abono = leia.nextFloat();
 
-		System.out.println("O valor é do salario final " + (salario-abono));
+		System.out.println("O valor é do salario final " + (salario+abono));
 	}
 
 }
