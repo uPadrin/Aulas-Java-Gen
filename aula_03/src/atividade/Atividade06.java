@@ -45,6 +45,7 @@ public class Atividade06 {
 			cargo = "Técnico de TI";
 			break;
 		default:
+			sal = 0;
 			cargo = "Código inexistente";
 		}
 		sal = sal + (reaj*sal);
