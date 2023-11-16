@@ -12,7 +12,7 @@ public class Atividade02 {
 
 		for(int i = 0; i < num.length; i++)
 			if (i % 2 != 0 )
-				num
+				
 		System.out.println("Elementos nos índices ímpares:" + (num[i]));
 		
 	}
