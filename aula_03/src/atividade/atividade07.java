@@ -2,7 +2,6 @@ package atividade;
 
 import java.util.Scanner;
 
-import javax.swing.text.DefaultCaret;
 
 public class atividade07 {
 	static Scanner sc = new Scanner(System.in);
@@ -11,7 +10,7 @@ public class atividade07 {
 
 		float num1, num2, res;
 		int op;
-		String opS;
+
 		
 		System.out.print("Digite o 1º número: ");
 		num1 = sc.nextFloat();
